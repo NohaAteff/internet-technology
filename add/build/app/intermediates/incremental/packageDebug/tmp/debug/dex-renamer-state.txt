@@ -1,4 +1,4 @@
-#Wed May 10 16:14:06 EET 2023
-base.0=C\:\\Users\\77\\OneDrive\\Desktop\\Flutter\\Flutter-Shop-UI-Kit\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Wed May 10 17:26:46 EET 2023
+base.0=C\:\\Users\\77\\OneDrive\\Desktop\\internet-technology\\add\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

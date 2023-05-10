@@ -24,7 +24,7 @@ class HomeScreen extends StatelessWidget {
           // tabActiveBorder: Border.all(color: Colors.lightBlue, width: 1), // tab button border
           tabBorder: Border.all(color: Color(0xff252527), width: 1), // tab button border
           tabShadow: [BoxShadow(color: Color(0xff252527).withOpacity(0.5), blurRadius: 5)], // tab button shadow
-          curve: Curves.bounceInOut, // tab animation curves
+          curve: Curves.easeInOutExpo, // tab animation curves
           duration: Duration(milliseconds: 500), // tab animation duration
           gap: 8, // the tab button gap between icon and text
           color: Color(0xffF5EBD2), // unselected icon color
